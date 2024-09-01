@@ -11,35 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* VNU-HCM High School for the Gifted, 2025
+* Tran Dai Nghia High School for the Gifted, 2022
   
-Skills
+Academic Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023: Consolation Prize, Summer Mathematics Challenge, Vietnam Institute for Advanced Study in Mathematics (VIASM)
+* 2023: Gold Medal, Olympiad 30/4 XXVII, Ho Chi Minh City, Vietnam
+* 2023: Rising Star, PTNK Initiative on Interdisciplinary Science and Engineering
 
 Publications
 ======
