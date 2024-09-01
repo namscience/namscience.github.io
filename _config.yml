@@ -21,10 +21,10 @@ repository               : "namscience.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portrait.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "portrait.png"
+  name             : "Nguyen Kim Hoang Nam"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Grade 12 student at VNU-HCM Gifted High School"
   location         : "Ho Chi Minh City, Vietnam"
   employer         : "VNU-HCM High School for the Gifted"
   uri              : # URL
